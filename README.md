@@ -70,7 +70,7 @@ To use solid icons or logos add attribute `type` as solid or logo before the nam
 
 ```html
 <term-icon type="solid" name="hot"></term-icon>
-<term-icon type="logo" name="facebook-square"></-icon>
+<term-icon type="logo" name="facebook-square"></term-icon>
 ```
 
 the `<term-icon>` custom element supports the following attributes:
