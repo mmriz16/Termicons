@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://termicons.com" target="_blank"><img src="svg/logo_termicons.svg" width="400" style="margin-bottom: 50px"></a></p>
-=======
-<p align="center"><a href="https://termicons.com" target="_blank"><img src="public/logo_termicons.svg" width="400" style="margin-bottom: 50px"></a></p>
->>>>>>> db0fc4ad489c0b558879b80d16827a899ac80cc9
 
 _High Quality Web Icon Design_
 
