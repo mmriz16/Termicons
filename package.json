@@ -1,0 +1,27 @@
+{
+  "name": "termicons",
+  "version": "1.0.1",
+  "description": "Beautiful hand-crafted SVG icons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmriz16/termicons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": {
+    "name": "mmriz16",
+    "email": "m.miftakhul.rizky4@gmail.com",
+    "url": "https://github.com/mmriz16"
+  },
+  "bugs": {
+    "url": "https://github.com/mmriz16/termicons/issues"
+  },
+  "homepage": "https://github.com/mmriz16/termicons#readme",
+  "license": "(CC-BY-4.0 OR OFL-1.1 OR MIT)",
+  "main": "./dist/termicons.js",
+  "style": "./css/termicons.css"
+}
