@@ -38,18 +38,18 @@ instead of installing you may use the remote version
 
 ```html
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/termicons@latest/css/termicons.min.css">
   <!-- or -->
-  <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/termicons@latest/css/termicons.min.css">
 </head>
 ```
 
 2. To use an icon on your page, add a class 'ti' and seperate class with the icons name with a prefix 'ti-' for regular icons, 'tis-' for solid icons and 'til-' for logos:
 
 ```html
-<i class="bx bx-hot"></i>
-<i class="bx bxs-hot"></i>
-<i class="bx bxl-facebook-square"></i>
+<i class="ti ti-hot"></i>
+<i class="ti tis-hot"></i>
+<i class="ti til-facebook-square"></i>
 ```
 
 ### Using via Web Component
@@ -57,7 +57,7 @@ instead of installing you may use the remote version
 Termicons includes a Custom Element that makes using icons easy and efficient. To use it, add the `box-icon-element.js` file to the page:
 
 ```html
-<script src="https://unpkg.com/boxicons@2.0.9/dist/boxicons.js"></script>
+<script src="https://unpkg.com/termicons@2.0.9/dist/termicons.js"></script>
 ```
 
 To use an icon, add the `<term-icon>` element to the location where the icon should be displayed:
